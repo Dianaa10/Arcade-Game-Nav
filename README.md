@@ -1,6 +1,6 @@
 # Arcade-Game-Nav
 
-Welcome to the Arcade Game Navbar repository! This project is designed to create an interactive and styled navigation bar for an arcade game website. It includes sound effects, custom fonts, and various visual enhancements to improve the user experience.
+Welcome to the Arcade Game Navbar repository! This project is designed to create an interactive and styled navigation bar for an arcade game website. It includes sound effects, custom fonts, and visual enhancements to improve the user experience.
 
 Features
 NonResponsive Navbar: A clean and functional navigation bar that adapts to different screen sizes.
